@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146387410142",
+    "project_id": "andfacedetection-df144",
+    "storage_bucket": "andfacedetection-df144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146387410142:android:115616ed360d2f31bab64f",
+        "android_client_info": {
+          "package_name": "com.anibear.andfacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146387410142-j11itj9ttum8h4j3vii1up0gn64c7t8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAausF9QNqv1X2bVt5Asg5xeLsifxRPj_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146387410142-j11itj9ttum8h4j3vii1up0gn64c7t8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
