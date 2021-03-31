@@ -1,6 +1,6 @@
 # AndFaceDetection
 
-> Google의 'Firebase ML Kit'을 활용하여 사용자 얼굴 인식과 표정 변화 감지와 얼굴 사진 캡쳐 (무산된 프로젝트)  
+> Google의 'Firebase ML Kit'을 활용하여 사용자 얼굴 인식과 표정 변화 감지와 얼굴 사진 캡쳐 ( 프로젝트)  
 >     
 > 회사내부에서 세미나 목적으로 작업한 프로젝트  
 >   
